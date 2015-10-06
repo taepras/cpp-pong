@@ -1,7 +1,7 @@
 #include<Windows.h>
 #include<iostream>
 #include<sstream>
-#include "ponglib.cpp"
+#include<ponglib.h>
 
 int main(){
 

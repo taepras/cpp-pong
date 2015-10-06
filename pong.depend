@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1444143551 source:d:\code\pong\main.cpp
+	<Windows.h>
+	<iostream>
+	<sstream>
+	"ponglib.h"
+
+1444143662 d:\code\pong\ponglib.h
+	"pongconfig.h"
+	<string>
+	<iostream>
+
+1444143474 d:\code\pong\pongconfig.h
+	<Windows.h>
+
+1444143474 source:d:\code\pong\pongconfig.h
+	<Windows.h>
+
+1444143662 source:d:\code\pong\ponglib.h
+	"pongconfig.h"
+	<string>
+	<iostream>
+
